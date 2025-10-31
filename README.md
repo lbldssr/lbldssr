@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Léo Baldissera
+### 👋 Hi, I'm Léo
 
 ---
 

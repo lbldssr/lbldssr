@@ -5,7 +5,7 @@
 ### 👤 About Me
 Data analyst with experience in LATAM and the global payments industry, focused on card performance, alternative payment methods, and data-driven operations.
 
-Currently, I work at [**EBANX**](https://www.ebanx.com/en/), helping business teams generate actionable insights through data-driven analysis to support strategic decisions and drive operational efficiency. I also bring strong business domain experience; my background in business operations enables me to combine analytical insights with a deep understanding of business processes.
+Currently at [**EBANX**](https://www.ebanx.com/en/), I turn data into actionable insights that drive strategic decisions and operational efficiency. With a background in business operations, I bring a unique perspective that combines analytical rigor with a deep understanding of business processes.
 
 ---
 

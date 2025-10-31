@@ -1,38 +1,69 @@
-# 👋 Hi, I'm Léo Baldissera
+<h1 align="center">👋 Hey there! I'm Léo Baldissera</h1>
 
-**Data Analyst @ EBANX**  
-📍 Curitiba, Brazil  
-💡 Passionate about data, analytics, and process optimization in the payments industry.  
-
----
-
-### 🚀 About Me
-I’m a data analyst with experience across Latin America, focusing on credit/debit card performance, alternative payment methods, and business operations.  
-Currently, I work at **EBANX**, where I analyze payment performance data using **SQL, BigQuery, Tableau, and Python**, helping improve decision-making and operational efficiency.  
+<p align="center">
+  <b>Data Analyst @ EBANX</b> • SQL | BigQuery | Tableau | Python | GCP | Payments Industry
+</p>
 
 ---
 
-### 🧠 Technical Skills
-- **Data Analytics:** SQL, BigQuery, Tableau, Google Sheets  
-- **Programming:** Python (pandas, matplotlib)  
-- **Workflow:** dbt, Airflow (learning in progress)  
-- **Version Control:** GitHub  
-- **Other:** Project management, KPI monitoring, and payment operations  
+### 🧩 About Me
+I'm a data analyst passionate about transforming complex datasets into meaningful insights.  
+With a strong background in operations and payments across LATAM, I currently work at **EBANX**, leveraging data to optimize payment performance and business processes.
 
 ---
 
-### 🎯 Learning Focus
-Currently enhancing my skills in:
-- Data modeling (dbt)
-- Workflow automation (Airflow)
-- Advanced Python for analytics  
+### ⚙️ Tech Stack & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,git,github,bigquery,gcp,tableau,vscode,airflow,dbt,linux&perline=6" />
+</p>
 
 ---
 
-### 📫 How to reach me
-- **Email:** [lbldssr@outlook.com](mailto:lbldssr@outlook.com)  
-- **LinkedIn:** [linkedin.com/in/leonardobaldissera](https://www.linkedin.com/in/leonardobaldissera)  
-- **GitHub:** [github.com/lbldssr](https://github.com/lbldssr)
+### 📊 Featured Projects
+- 📘 **Payment Performance Dashboard** – End-to-end Tableau dashboard tracking approval rates by payment type and country.  
+- 🧱 **SQL Data Modeling with dbt** – Building reusable models for LATAM transaction datasets.  
+- 🪄 **Automation Scripts in Python** – Data cleaning and reporting tasks for payment metrics.  
 
 ---
-> “Turning data into actionable insights — one query at a time.”
+
+### 📚 Currently Learning
+- 🧩 Data pipelines with **Airflow**
+- 🧠 Modular transformations with **dbt**
+- 🐍 Advanced **Python** for data analysis  
+
+---
+
+### 🏆 Certifications
+- SQL Fundamentals  
+- Data Science Foundations  
+- Scrum Basics  
+- Python 3 – Mundo 1  
+- Customer Experience  
+
+---
+
+### 🌐 Connect with Me
+<p align="left">
+  <a href="mailto:lbldssr@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/leonardobaldissera"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/lbldssr"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=lbldssr&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=lbldssr&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbldssr&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  <i>“Turning data into insights that drive better decisions.”</i>
+</p>

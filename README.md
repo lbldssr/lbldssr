@@ -1,16 +1,21 @@
-## Hi there 👋
+### 👋 Hi, I'm Léo
 
-<!--
-**lbldssr/lbldssr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👤 About Me
+Data analyst with experience in LATAM and the global payments industry, focused on card performance, alternative payment methods, and data-driven operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently at [**EBANX**](https://www.ebanx.com/en/), I turn data into actionable insights that drive strategic decisions and operational efficiency. With a background in business operations, I bring a unique perspective that combines analytical rigor with a deep understanding of business processes.
+
+---
+
+### 🧠 Technical Skills
+- **Data Analytics:** SQL, BigQuery, Tableau, Google Sheets, Looker
+- **Programming:** Python (pandas, matplotlib)
+- **Workflow:** dbt, Airflow
+- **Version Control:** GitHub
+- **Other:** Project management, KPI monitoring, and payment operations
+
+---
+
+> "Passionate about data, analytics, and process optimization."

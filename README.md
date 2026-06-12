@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Léo
+## 👋 Hi, I'm Léo
 
 Data Analyst exploring AI agents, automation, and data products to improve how teams access, understand, and use data.
 

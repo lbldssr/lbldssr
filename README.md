@@ -10,4 +10,4 @@ Data Analyst exploring AI agents, automation, and data products to improve how t
 - Data Engineering
 
 ### Tools
-SQL • Python • Google ADK • dbt • Airflow • Tableau • BigQuery • GitHub
+SQL • Python • Google ADK • dbt • Airflow • Tableau • Looker • BigQuery • GitHub
